@@ -12,7 +12,11 @@ This​‍​‌‍​‍‌ project is essentially a command-line based impleme
 
 ## Scoring System
 The game utilizes a non-linear scoring algorithm to reward larger segment clears:
-$$Score = n(n + 1) + 10 \times (\text{columns removed})$$
+
+$$
+Score = n(n + 1) + 10 \times (\text{columns removed})
+$$
+
 *(where $n$ is the number of blocks removed in a single turn)*.
 
 ## Features
