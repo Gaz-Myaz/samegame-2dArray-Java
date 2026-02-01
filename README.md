@@ -17,7 +17,7 @@ $$
 Score = n(n + 1) + 10 \times (\text{columns removed})
 $$
 
-*(where $n$ is the number of blocks removed in a single turn)*.
+*(where 'n' is the number of blocks removed in a single turn)*.
 
 ## Features
 * **Randomized Board Generation**: Ensures a playable state with at least one valid move using a randomized symbol distribution.
